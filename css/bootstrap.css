@@ -1,0 +1,42 @@
+
+
+
+html{
+    padding:0;
+    margin:0;
+}
+body{
+    font-size:62.5%;
+}
+
+
+header{
+    position: fixed;
+    height:5rem;
+    z-index: 1000;
+    background-color: #ffffff;
+    width:100%;
+}
+header .container{
+    margin-left:15%;  
+}
+.logo{
+    width:9rem;
+    margin-top:1rem;  
+}
+header .nav-list{
+    list-style: none;   
+}
+header a{
+    color:red;
+}
+.menu{
+    position:relative;
+    font-size:1rem;
+    color:black;
+    top:1rem;
+}
+.menu:hover{
+    border-bottom: solid green;
+    text-decoration: none;
+}

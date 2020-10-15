@@ -1,0 +1,89 @@
+h1{
+    color:red;
+}
+body{
+   --background-image: url(../images/nuba.png);
+    background-repeat:no-repeat;
+ 
+}
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    background-color:white;
+    margin-left:17rem;
+}
+
+#rouba{
+    margin-left:;
+    width:5%;
+}
+
+#yerou{
+    margin-left:5%;
+    width:5%;   
+}
+ 
+.livrecard{
+    box-shadow:10px 10px  5px green ;
+    border-radius: 15px;
+    
+}
+.livrecard img{
+    width: 200px;
+    height: 150px;
+}
+img.nuba{
+    width: 50%;
+}
+
+P.titre{
+    font-size: 5rem;
+    color: white;
+}
+P.auteur{
+    font-size:3.5rem;
+    margin-bottom:5%;
+    color: white;
+}
+p.description{
+    font-size:2rem;
+    margin-bottom:5%;
+    color:green;
+    
+}
+
+.contentlivre{
+    background-color: black;
+    margin-top: 7%;
+}
+#livreout{
+    margin:0% 0% 1% 95%;
+}
+marquee{
+    color: white;
+    font-size: 1.6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
